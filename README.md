@@ -1,12 +1,13 @@
 # Loan Prediction Analysis - Classification
 
-**Complete Video Tutorial:** https://youtu.be/zDwxGxiNFSo
-
 # Dataset Information
 
-   Dream Housing Finance company deals in all home loans. They have presence across all urban, semi urban and rural areas. Customer first apply for home loan after that company validates the customer eligibility for loan. Company wants to automate the loan eligibility process (real time) based on customer detail provided while filling online application form. These details are Gender, Marital Status, Education, Number of Dependents, Income, Loan Amount, Credit History and others. To automate this process, they have given a problem to identify the customers segments, those are eligible for loan amount so that they can specifically target these customers.
-   
-   This is a standard supervised classification task.A classification problem where we have to predict whether a loan would be approved or not. Below is the dataset attributes with description.
+   The Dream Housing Finance organization handles all types of mortgages. They are present in all areas—rural, semi-urban, and metropolitan. 
+
+   The consumer applies for a house loan first, and the firm verifies that the customer is eligible for the loan. The goal of the company is to automate the loan qualifying process in real time, using the client information submitted on the online application form. These include information on the borrower's gender, credit history, number of dependents, marriage, education, and income.
+
+   In order to target these clients directly, they have created a challenge to identify the customer groups that qualify for a certain loan amount in order to automate this procedure. This challenge involves supervised categorization as usual.
+
    
 Variable | Description
 ----------|--------------
